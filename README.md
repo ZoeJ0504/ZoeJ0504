@@ -20,7 +20,7 @@ Approaching both programming problems and life with persistance, passion, and cu
 
 (React & JSONServer)
 
-📺 Create Your Own Board | [Repo](https://github.com/ZoeJ0504/Project-1)
+📺 Build Your Own Board | [Repo](https://github.com/ZoeJ0504/Project-1)
 
 (Vanilla Javascript & JSONServer)
 
