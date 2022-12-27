@@ -22,6 +22,8 @@ Social Site that allows users to comment and post puzzles and riddles.
 
 :calendar: ZenCalendar | [Repo](https://github.com/ZoeJ0504/ZenCalendarTake2)
 
+Muti purpose platform that allows users to make new events on a calendar, create a to-do-list, as well as build a grocery list.
+
 (React & JSONServer)
 
 📺 Build Your Own Board | [Repo](https://github.com/ZoeJ0504/Project-1)
