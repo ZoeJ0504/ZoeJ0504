@@ -16,7 +16,7 @@ Social Site that allows users to comment and post puzzles and riddles.
 
 (React & Rails)
 
-:video_game: Game Rater | [Repo]()
+:video_game: Game Rater | [Frontend Repo](https://github.com/ZoeJ0504/phase-3-project-frontend) | [Backend Repo](https://github.com/ZoeJ0504/phase-3-project-backend)
 
 (React & Ruby)
 
@@ -26,7 +26,7 @@ Muti purpose platform that allows users to make new events on a calendar, create
 
 (React & JSONServer)
 
-📺 Build Your Own Board | [Frontend Repo](https://github.com/ZoeJ0504/phase-3-project-frontend) | [Backend Repo](https://github.com/ZoeJ0504/phase-3-project-backend)
+📺 Build Your Own Board | [Repo](https://github.com/ZoeJ0504/Build-Your-Own-Board)
 
 Uses Jeopardy API that allows users to create their own Jeopardy game by choosing 5 different categories. The score is totaled up at the top of the board to give the final score.
 
