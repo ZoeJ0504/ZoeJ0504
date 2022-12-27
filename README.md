@@ -26,7 +26,7 @@ Muti purpose platform that allows users to make new events on a calendar, create
 
 (React & JSONServer)
 
-📺 Build Your Own Board | [Repo](https://github.com/ZoeJ0504/Project-1)
+📺 Build Your Own Board | [Frontend Repo](https://github.com/ZoeJ0504/phase-3-project-frontend) | [Backend Repo](https://github.com/ZoeJ0504/phase-3-project-backend)
 
 Uses Jeopardy API that allows users to create their own Jeopardy game by choosing 5 different categories. The score is totaled up at the top of the board to give the final score.
 
