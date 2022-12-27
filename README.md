@@ -12,6 +12,10 @@ Approaching both programming problems and life with persistance, passion, and cu
 
 :jigsaw: Priddle | [Repo](https://github.com/ZoeJ0504/Priddle)
 
+Social Site that allows users to comment and post puzzles and riddles.
+
+(React & Rails)
+
 :video_game: Game Rater | [Repo]()
 
 (React & Ruby)
