@@ -12,7 +12,7 @@ Approaching both programming problems and life with persistance, passion, and cu
 
 :jigsaw: Puddle | [Repo](https://github.com/ZoeJ0504/Puddle)
 
-Social Site that allows users to comment and post puzzles and riddles. This is the new updated version of Priddle. Completely scrapped the backend of the previous project Priddle.
+Social Site that allows users to comment and post puzzles and riddles. This is the new updated version of Priddle. Completely scrapped the backend of the previous project.
 
 (React & Rails)
 
