@@ -34,7 +34,7 @@ Uses Jeopardy API that allows users to create their own Jeopardy game by choosin
 
 (Vanilla Javascript & JSONServer)
 
-Projects that have been redone: 
+## Projects that have been redone: 
 
 :jigsaw: Priddle | [Repo](https://github.com/ZoeJ0504/Priddle)
 
