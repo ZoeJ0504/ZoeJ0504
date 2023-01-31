@@ -10,11 +10,13 @@ Approaching both programming problems and life with persistance, passion, and cu
 
 (React & Rails)
 
-:jigsaw: Priddle | [Repo](https://github.com/ZoeJ0504/Priddle)
+:jigsaw: Puddle | [Repo](https://github.com/ZoeJ0504/Puddle)
 
-Social Site that allows users to comment and post puzzles and riddles.
+Social Site that allows users to comment and post puzzles and riddles. This is the new updated version of Priddle. Completely scrapped the backend of the previous project Priddle.
 
 (React & Rails)
+
+
 
 :video_game: Game Rater | [Frontend Repo](https://github.com/ZoeJ0504/phase-3-project-frontend) | [Backend Repo](https://github.com/ZoeJ0504/phase-3-project-backend)
 
@@ -31,6 +33,14 @@ Muti purpose platform that allows users to make new events on a calendar, create
 Uses Jeopardy API that allows users to create their own Jeopardy game by choosing 5 different categories. The score is totaled up at the top of the board to give the final score.
 
 (Vanilla Javascript & JSONServer)
+
+Projects that have been redone: 
+
+:jigsaw: Priddle | [Repo](https://github.com/ZoeJ0504/Priddle)
+
+Social Site that allows users to comment and post puzzles and riddles.
+
+(React & Rails)
 
  
 ## Skills 💻
