@@ -6,7 +6,7 @@ Approaching both programming problems and life with persistance, passion, and cu
 
 ## Projects 🎨
 
-:paw_prints: Buddies | [Repo](https://github.com/ZoeJ0504/Buddies)
+:paw_prints: Buddies | [Repo](https://github.com/ZoeJ0504/Buddies_Original_Copy)
 
 (React & Rails)
 
