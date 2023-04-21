@@ -6,7 +6,9 @@ Approaching both programming problems and life with persistance, passion, and cu
 
 ## Projects 🎨
 
-:paw_prints: Buddies | [Repo](https://github.com/ZoeJ0504/Buddies_Original_Copy)
+:paw_prints: Buddies | [Repo](https://github.com/ZoeJ0504/Buddies-cloudinary-react)
+
+Pet Sitting/Walking site that has two different desitnations depending on how you signed up.
 
 (React & Rails)
 
