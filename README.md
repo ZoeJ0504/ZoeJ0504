@@ -44,7 +44,7 @@ Social Site that allows users to comment and post puzzles and riddles.
 
 (React & Rails)
 
- ### Apps 📱
+### Apps 📱
 
 Job Search | [Repo](https://github.com/ZoeJ0504/react-native-jobs)
 
