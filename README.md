@@ -2,23 +2,23 @@
 
 Full Stack Software Engineer primarily using React and Ruby on Rails! Passionate & curious problem solver building programs to deliver easy solutions to users' wants/issues
 
-Approaching both programming problems and life with persistance, passion, and curiosity.
+Approaching both programming problems and life with persistence, passion, and curiosity.
 
 ## Projects 🎨
 
+### Web Applications 💻
+
 :paw_prints: Buddies | [Repo](https://github.com/ZoeJ0504/Buddies-cloudinary-react)
 
-Pet Sitting/Walking site that has two different desitnations depending on how you signed up.
+Pet Sitting/Walking site that has two different destinations depending on how you signed up.
 
 (React & Rails)
 
 :jigsaw: Puddle | [Repo](https://github.com/ZoeJ0504/Puddle)
 
-Social Site that allows users to comment and post puzzles and riddles. This is the new updated version of Priddle. Completely scrapped the backend of the previous project.
+Social Site that allows users to comment and post puzzles and riddles. This is the new updated version of Priddle. I completely scrapped the backend of the previous project.
 
 (React & Rails)
-
-
 
 :video_game: Game Rater | [Frontend Repo](https://github.com/ZoeJ0504/phase-3-project-frontend) | [Backend Repo](https://github.com/ZoeJ0504/phase-3-project-backend)
 
@@ -26,13 +26,13 @@ Social Site that allows users to comment and post puzzles and riddles. This is t
 
 :calendar: ZenCalendar | [Repo](https://github.com/ZoeJ0504/ZenCalendarTake2)
 
-Muti purpose platform that allows users to make new events on a calendar, create a to-do-list, as well as build a grocery list.
+Muti purpose platform allows users to make new events on a calendar, create a to-do list, and build a grocery list.
 
 (React & JSONServer)
 
 📺 Build Your Own Board | [Repo](https://github.com/ZoeJ0504/Build-Your-Own-Board)
 
-Uses Jeopardy API that allows users to create their own Jeopardy game by choosing 5 different categories. The score is totaled up at the top of the board to give the final score.
+Uses Jeopardy API that allows users to create their own Jeopardy game by choosing 5 different categories. The score is totaled at the top of the board to give the final score.
 
 (Vanilla Javascript & JSONServer)
 
@@ -44,7 +44,11 @@ Social Site that allows users to comment and post puzzles and riddles.
 
 (React & Rails)
 
- 
+ ### Apps 📱
+
+Job Search | [Repo](https://github.com/ZoeJ0504/react-native-jobs)
+
+ 
 ## Skills 💻
 ### Languages
 <p>
